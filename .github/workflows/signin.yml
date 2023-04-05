@@ -13,11 +13,11 @@ jobs:
       - uses: ImYrS/aliyun-auto-signin@main
         with:
           REFRESH_TOKENS: ${{ c3a1401f463d453081dec48c0b891a2c }}
-          GP_TOKEN: ${{ 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}}
+          GP_TOKEN: ${{ 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 }}
           PUSH_TYPES: ''
           SERVERCHAN_SEND_KEY: ${{ secrets.SERVERCHAN_SEND_KEY }}
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_BOT_TOKEN: ${{ 1884409524:AAHdgvD1S9DDmGjZsKqtro1qP2vNXWJMC6o }}
+          TELEGRAM_CHAT_ID: ${{ 391693548 }}
           PUSHPLUS_TOKEN: ${{ secrets.PUSHPLUS_TOKEN }}
           SMTP_HOST: ${{ secrets.SMTP_HOST }}
           SMTP_PORT: ${{ secrets.SMTP_PORT }}
